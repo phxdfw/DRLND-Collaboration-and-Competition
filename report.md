@@ -32,7 +32,7 @@ My work uses Actor-Critic:
 
 
 ### Plot of Results 
-The plot below shows the score and average score during each episode. The averaged score from episode 2061 to 2161 is 0.629, which is above our 0.5 goal.
+The plot below shows the score and average score during each episode. The averaged score from episode 2061 to 2161 is 0.629, which is above our 0.5 goal. Thus my training ends after 2161 episodes.
 
 <img src="result.png" width="800" height="450" />
 
